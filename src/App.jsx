@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import HeaderComponent from './components/Header';
-import './App.css';
 import sendIcon from './assets/send-Icon.svg';
 
 function App() {
